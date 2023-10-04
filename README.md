@@ -1,8 +1,12 @@
-#ASSIGNMENT WEEK-1.
-#Toy Problems To Learn Javascript.
-This is a simple guide with instructions to solutions of code in Javascript of several problems.
-The repository is public for anyone to access READ.ME files and codes in Visual Studio Code.
+# ASSIGNMENT WEEK-1.
+# Student Grade.Challenge 1
+Prompt shows students grades depending on the mark cohort they are in.
 
-INSTRUCTIONS
-Search for week1_Toyproblemstolearnjavascript  in your github.Fork this repository to create a  new fork then select code and copy the SSH key.Open your terminal
-in your local machine and git clone the repository.Navigate into the expected directory and open your VS code by running "code .".
+# Speed Detector.Challenge 2
+Takes car speed and gives back value depending on the speed.
+speed of 0 to less than 70 prints out "OK".For every 5km/s increase in speed limit, 
+there's an increase in demerit point and prints out the number of demerits.
+
+# Net Salary Calculator.Challenge 3
+Calculates individuals Net Salary by taking the total summation of deductions
+(NHIF,NSSF).This is then subtracted from gross salary to get the Net Salary.
